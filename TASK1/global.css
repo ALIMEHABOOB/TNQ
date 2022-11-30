@@ -1,0 +1,36 @@
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+
+#mainBlock {
+  background-color: #eee;
+  font-family: cursive;
+}
+/* 
+section article {
+  width: 80%;
+  background-color: #fff;
+  padding: 10px;
+  margin: 20px auto;
+} */
+textarea {
+  background-color: #eee;
+  padding: 30px;
+  width: 80%;
+}
+#btn {
+  background-color: rgb(123, 2, 2);
+  color: #fff;
+  color: #fff;
+  padding: 10px;
+  margin: 10px 0;
+  border: 1px solid crimson;
+}
+
+#btn:hover {
+  background-color: greenyellow;
+  color: black;
+  transition: 1s ease-in-out;
+}
